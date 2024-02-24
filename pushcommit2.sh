@@ -13,4 +13,4 @@ git commit -m "$message"
 
 git push
 
-echo $message
+echo $message;
